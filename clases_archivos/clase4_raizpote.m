@@ -9,6 +9,10 @@ function val=clase4_raizpote(x,y)
 % val = raizpote(x,y)
 %
 %
+% Catalizate en Octave - 2019 - FCAI-UNCuyo
+% 
+% Congreso Nacional de Estudiantes de Ingenieria Quimica (CONEIQ)
+%
 % (C) Octave 2019. FCAI-UNCuyo.
 
 s=x+y;

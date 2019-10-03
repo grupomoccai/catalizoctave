@@ -1,3 +1,7 @@
+% Catalizate en Octave - 2019 - FCAI-UNCuyo
+% 
+% Congreso Nacional de Estudiantes de Ingenieria Quimica (CONEIQ)
+%
 %ejemplo if-elseif-else 
 
 x = ceil(rand(1,1)*10);

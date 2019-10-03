@@ -1,4 +1,8 @@
-%ejemplo switch-case-otherwise
+% Catalizate en Octave - 2019 - FCAI-UNCuyo
+% 
+% Congreso Nacional de Estudiantes de Ingenieria Quimica (CONEIQ)
+%
+% Ejemplo switch-case-otherwise
 
 x = ceil(rand(1,1)*10);
 

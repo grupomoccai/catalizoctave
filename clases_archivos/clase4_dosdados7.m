@@ -1,3 +1,8 @@
+% Catalizate en Octave - 2019 - FCAI-UNCuyo
+% 
+% Congreso Nacional de Estudiantes de Ingenieria Quimica (CONEIQ)
+%
+%==================================================================
 % Ejemplo: simule tirar dos dados hasta que la
 % suma de ambas caras sea 7, cuente el numero 
 % de tiradas. Repita esto 1000 veces y estime 
@@ -26,7 +31,7 @@ disp([N/k, 6/36])
 %------------------------------------------------
 % Ahora realizamos el histograma obtenido de arrojar N
 % veces dos dados y sumar sus caras
-da2 = sum(ceil(rand(1000,2)*6),2);
+da2 = sum(ceil(rand(10000,2)*6),2);
 
 %probabilidad de la muestra
 pMue= hist(da2,11);
